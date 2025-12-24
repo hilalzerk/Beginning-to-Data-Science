@@ -1,17 +1,20 @@
 ## Beginning-to-Data-Science
+
 This repository documents my learning journey into data science.
 It starts with Python fundamentals and gradually builds a strong foundation for data analysis and future machine learning studies.
+
 Contents
-#Python Basics
-Variables and Data Types
-Strings
-Lists
-Sets
-Tuples
-Dictionaries
-#Conditional Statements
-if
-elif
+
+# Python Basics
+- Variables and Data Types
+- Strings
+- Lists
+- Sets
+- Tuples
+- Dictionaries
+# Conditional Statements
+- if
+- elif
 else
 #Logical operators: and, or
 #Loops
