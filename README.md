@@ -1,4 +1,4 @@
-# Beginning-to-Data-Science
+# Beginning to Python
 
 This repository documents my learning journey into data science.
 It starts with Python fundamentals and gradually builds a strong foundation for data analysis and future machine learning studies.
